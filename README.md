@@ -1,4 +1,4 @@
-# alist-heroku-postgresql
+# 已无法部署
 
 
 ## Deploy alist to heroku
